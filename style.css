@@ -25,4 +25,11 @@ background-color: gray !important;
 .small_but_2:hover{
     background-color: rgb(238, 238, 238);
 }
-
+.bbt:hover{
+    background-color: rgb(238, 238, 238);
+}
+@media (max-width : 582px){
+    .cardd{
+        flex-wrap: wrap !important;
+    }
+}
